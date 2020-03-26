@@ -53,7 +53,7 @@
 	<build>
 		<finalName>CounterWebApp</finalName>
 		<plugins>
-		    <!-- Eclipse project -->
+		    <!-- Eclipse project 123-->
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-eclipse-plugin</artifactId>
